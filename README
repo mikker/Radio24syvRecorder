@@ -1,0 +1,7 @@
+Record the audio stream of the Danish radio station 24syv.
+
+Usage:
+  $ ruby record_24seven.rb
+    (Then ctrl+c when you want to stop recording.)
+
+License: This script is totally free for you to use in any way you want. The audio content though is property of 24syv. I have no idea how they feel about this. Your responsibility.
